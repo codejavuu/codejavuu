@@ -1,19 +1,52 @@
-<h1 align="center">Hi 👋, I'm codejavu</h1>
-<h3 align="center">Never trust a computer you can’t throw out a window</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codejavuu&label=Profile%20views&color=0e75b6&style=flat" alt="codejavuu" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codejavuu" alt="codejavuu" /></a> </p>
+# ⚡ BAKO | CEO of VERSO 🛡️
+  
+> **"Never trust a computer you can’t throw out a window"** 🪟💻
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150" />
+
+---
+
+### 🌑 DIGITAL ASSET SPECIALIST & FOUNDER
+**Building the future of digital education at [Verso Academy](https://verso.vercel.app)**
+
+
+
+---
+
+### 🛠️ INTELLIGENCE TECH STACK
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codejavuu&show_icons=true&locale=en&layout=compact" alt="codejavuu" /></p>
+### 📊 OPERATIONAL STATISTICS
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codejavuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejavuu&layout=compact&theme=tokyonight"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codejavuu&show_icons=true&locale=en" alt="codejavuu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codejavuu&" alt="codejavuu" /></p>
+### 📈 SYSTEM ACTIVITY
+<p align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=codejavuu&theme=tokyonight" />
+</p>
+
+---
+
+### 🛰️ V-INTEL SYSTEM STATUS: `v11.0 GHOST`
+- **Identity:** `Encrypted`
+- **Location Analytics:** `Active`
+- **Encryption Level:** `Military Grade`
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codejavuu&label=Profile%20Views&color=00F2FF&style=flat-square" alt="codejavuu" /> </p>
+
+</div>
