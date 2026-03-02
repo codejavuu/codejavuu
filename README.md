@@ -2,12 +2,9 @@
 
 <h2>About Me</h2>
 <br>
-Level 1 Developer. I treat coding like a strategy game—every bug is an enemy,<br>
-and every deployment is a victory. Specializing in efficient, clean, and powerful code.
+<b>Rooted in Linux. Living in the terminal.</b>
 <br><br>
-<b>Main Weapon:</b> VS Code & Vim<br>
-<b>Defense:</b> Linux Security<br>
-<b>Attacks:</b> C++, Rust, Python
+<img src="https://i.pinimg.com/originals/db/32/23/db32232ee849096679c32d3392a87694.gif" width="100%" style="max-width: 500px; border-radius: 10px;" />
 
 <br><br>
 
