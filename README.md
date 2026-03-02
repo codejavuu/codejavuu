@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7A5FFF&center=true&vCenter=true&width=500&lines=𝖲𝖸𝖲𝖳𝖤𝖬+𝖮𝖭𝖫%20𝖨𝖭𝖤;𝖣𝖠%20𝖳𝖠+𝖲𝖳𝖱𝖤𝖠𝖬+𝖠𝖢𝖳𝖨𝖵𝖤;𝖭𝖤𝖵𝖤𝖱+𝖳%20𝖱𝖴𝖲𝖳+𝖠+𝖢𝖮𝖬𝖯𝖴𝖳𝖤𝖱" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=7A5FFF&center=true&vCenter=true&width=500&lines=IDENTITY%3A+HIDDEN;SYSTEM%3A+ONLINE;NEVER+TRUST+A+COMPUTER..." />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/AmrAnwar/AmrAnwar/master/assets/programmer.gif" width="500" style="border-radius: 10px;" />
+<img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="500" style="border-radius: 10px;" />
 
 <br><br>
 
-𝖳𝖤𝖢𝖧𝖭𝖨𝖢𝖠𝖫 𝖤𝖷𝖯𝖤𝖱𝖳𝖨𝖲𝖤
+### 𝖳 𝖤 𝖢 𝖧 𝖭 𝖮 𝖫 𝖮 𝖦 𝖸
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSHARP-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/RUBY-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
@@ -29,30 +29,30 @@
 
 ---
 
-𝖦𝖨𝖳𝖧𝖴𝖡 𝖲𝖳𝖱𝖤𝖠𝖪 𝖲𝖳𝖠𝖳𝖲
+### 𝖠 𝖢 𝖳 𝖨 𝖵 𝖨 𝖳 𝖸   𝖲 𝖳 𝖱 𝖤 𝖠 𝖪
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codejavuu&theme=tokyonight&hide_border=true&stroke=7A5FFF&ring=00F2FF&fire=00F2FF" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codejavuu&theme=tokyonight&hide_border=true&stroke=7A5FFF&ring=7A5FFF&fire=7A5FFF" width="100%" />
 </p>
 
 ---
 
-𝖢𝖮𝖭𝖳𝖱𝖨𝖴𝖡𝖴𝖳%20𝖨𝖮𝖭+𝖦𝖱𝖠𝖯𝖧
+### 𝖢 𝖮 𝖭 𝖳 𝖱 𝖨 𝖡 𝖴 𝖳 𝖨 𝖮 𝖭   𝖥 𝖫 𝖮 𝖶
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codejavuu&theme=tokyonight&area=true&hide_border=true&color=7A5FFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codejavuu&theme=tokyonight&area=true&hide_border=true&color=7A5FFF" width="100%" />
 </p>
 
 ---
 
-𝖦𝖨𝖳𝖧𝖴𝖡 𝖠𝖢𝖧%20𝖨𝖤𝖵𝖤𝖬𝖤𝖭%20𝖳𝖲
+### 𝖠 𝖭 𝖠 𝖫 𝖸 𝖳 𝖨 𝖢 𝖲
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codejavuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejavuu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=codejavuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejavuu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=codejavuu&label=𝖯𝖱𝖮𝖥𝖨𝖫𝖤%20𝖵𝖨𝖤𝖶𝖲&color=7A5FFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=codejavuu&label=PROFILE%20VIEWS&color=7A5FFF&style=flat-square" />
 </p>
 
 </div>
