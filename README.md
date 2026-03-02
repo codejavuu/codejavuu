@@ -4,7 +4,10 @@
   
 > **"Never trust a computer you can’t throw out a window"** 🪟💻
 
-<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="150" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Anime Coding" />
+</p>
+
 
 ---
 
